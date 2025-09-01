@@ -2,76 +2,76 @@
     {
         "category_id":0,
         "name":"Овощи и фрукты",
-        "image":" https://api.github.com/repos/tempiltin/api/images/frukt-oboshi.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/frukt-oboshi.png"
     },
     {
         "category_id":1,
         "name":"Фрукты",
-        "image":" https://api.github.com/repos/tempiltin/api/images/frukt.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/frukt.png"
     },
     {
         "category_id":2,
         "name":"Мясо",
-        "image":" https://api.github.com/repos/tempiltin/api/images/myaso.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/myaso.png"
     },
     {
         "category_id":3,
         "name":"Рыба и морепродукты",
-        "image":" https://api.github.com/repos/tempiltin/api/images/riba.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/riba.png"
     },
     {
         "category_id":4,
         "name":"Молочные продукты",
-        "image":" https://api.github.com/repos/tempiltin/api/images/molochniy-produkt.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/molochniy-produkt.png"
     },
     {
         "category_id":5,
         "name":"Колбасные изделия",
-        "image":" https://api.github.com/repos/tempiltin/api/images/kolbasa.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/kolbasa.png"
     },
     {
         "category_id":6,
         "name":"Заморозка",
-        "image":" https://api.github.com/repos/tempiltin/api/images/morozka.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/morozka.png"
     },
     {
         "category_id":7,
         "name":"Хлеб и выпечка",
-        "image":" https://api.github.com/repos/tempiltin/api/images/xlep.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/xlep.png"
     },
     {
         "category_id":8,
         "name":"Макароны, крупы и мука",
-        "image":" https://api.github.com/repos/tempiltin/api/images/makaron.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/makaron.png"
     },
     {
         "category_id":9,
         "name":"Кофе, чай, какао",
-        "image":" https://api.github.com/repos/tempiltin/api/images/kofee.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/kofee.png"
     },
     {
         "category_id":10,
         "name":"Сладости",
-        "image":" https://api.github.com/repos/tempiltin/api/images/sladosti.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/sladosti.png"
     },
     {
         "category_id":11,
         "name":"Напитки",
-        "image":" https://api.github.com/repos/tempiltin/api/images/napetki.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/napetki.png"
     },
     {
         "category_id":12,
         "name":"Консервы и соусы",
-        "image":" https://api.github.com/repos/tempiltin/api/images/konservi.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/konservi.png"
     },
     {
         "category_id":13,
         "name":"Бытовая химия и косметика",
-        "image":" https://api.github.com/repos/tempiltin/api/images/kosmetike.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/kosmetike.png"
     },
     {
         "category_id":14,
         "name":"Готовые блюда",
-        "image":" https://api.github.com/repos/tempiltin/api/images/gotove-vlyuda.png"
+        "image":"https://raw.githubusercontent.com/tempiltin/api/main/images/gotove-vlyuda.png"
     }
 ]
