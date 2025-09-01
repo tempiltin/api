@@ -1,0 +1,803 @@
+[
+    {
+        "product_id": 0,
+        "name": "Картофель свежий",
+        "price": 45,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 1,
+        "name": "Морковь",
+        "price": 40,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 2,
+        "name": "Лук репчатый",
+        "price": 35,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 3,
+        "name": "Огурцы свежие",
+        "price": 60,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 4,
+        "name": "Помидоры",
+        "price": 80,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 5,
+        "name": "Капуста белокочанная",
+        "price": 30,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 6,
+        "name": "Свекла",
+        "price": 38,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 7,
+        "name": "Перец болгарский",
+        "price": 90,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 8,
+        "name": "Редис",
+        "price": 55,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 9,
+        "name": "Зелёный лук",
+        "price": 25,
+        "type": "100 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cola.png",
+        "category_id": 0
+    },
+    {
+        "product_id": 10,
+        "name": "Яблоки",
+        "price": 70,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 11,
+        "name": "Бананы",
+        "price": 85,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 12,
+        "name": "Апельсины",
+        "price": 95,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 13,
+        "name": "Груши",
+        "price": 100,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 14,
+        "name": "Виноград",
+        "price": 120,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 15,
+        "name": "Киви",
+        "price": 110,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 16,
+        "name": "Лимон",
+        "price": 130,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 17,
+        "name": "Сливы",
+        "price": 105,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 18,
+        "name": "Персики",
+        "price": 140,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 19,
+        "name": "Гранат",
+        "price": 150,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 1
+    },
+    {
+        "product_id": 20,
+        "name": "Говядина",
+        "price": 350,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 21,
+        "name": "Свинина",
+        "price": 320,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 22,
+        "name": "Баранина",
+        "price": 400,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 23,
+        "name": "Куриное филе",
+        "price": 260,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kartoshka.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 24,
+        "name": "Говяжий фарш",
+        "price": 340,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/beef-minced.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 25,
+        "name": "Свиной фарш",
+        "price": 310,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pork-minced.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 26,
+        "name": "Куриные ножки",
+        "price": 220,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/chicken-leg.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 27,
+        "name": "Говяжьи ребра",
+        "price": 370,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/beef-ribs.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 28,
+        "name": "Свинина на косточке",
+        "price": 330,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pork-bone.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 29,
+        "name": "Куриные крылья",
+        "price": 210,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/chicken-wing.png",
+        "category_id": 2
+    },
+    {
+        "product_id": 30,
+        "name": "Форель",
+        "price": 500,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/trout.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 31,
+        "name": "Сёмга",
+        "price": 600,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/salmon.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 32,
+        "name": "Тунец",
+        "price": 550,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/tuna.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 33,
+        "name": "Минтай",
+        "price": 220,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pollock.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 34,
+        "name": "Скумбрия",
+        "price": 300,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/mackerel.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 35,
+        "name": "Креветки",
+        "price": 700,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/shrimp.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 36,
+        "name": "Кальмары",
+        "price": 400,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/squid.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 37,
+        "name": "Мидии",
+        "price": 450,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/mussel.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 38,
+        "name": "Окунь",
+        "price": 350,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/perch.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 39,
+        "name": "Сельдь",
+        "price": 200,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/herring.png",
+        "category_id": 3
+    },
+    {
+        "product_id": 40,
+        "name": "Молоко",
+        "price": 60,
+        "type": "1 л",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/milk.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 41,
+        "name": "Сметана",
+        "price": 80,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/sour-cream.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 42,
+        "name": "Творог",
+        "price": 120,
+        "type": "500 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cottage-cheese.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 43,
+        "name": "Йогурт",
+        "price": 50,
+        "type": "200 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/yogurt.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 44,
+        "name": "Кефир",
+        "price": 65,
+        "type": "1 л",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/kefir.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 45,
+        "name": "Масло сливочное",
+        "price": 150,
+        "type": "180 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/butter.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 46,
+        "name": "Сыр российский",
+        "price": 350,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cheese.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 47,
+        "name": "Ряженка",
+        "price": 70,
+        "type": "500 мл",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/ryazhenka.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 48,
+        "name": "Сливки",
+        "price": 90,
+        "type": "200 мл",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cream.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 49,
+        "name": "Молочный коктейль",
+        "price": 55,
+        "type": "250 мл",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/milkshake.png",
+        "category_id": 4
+    },
+    {
+        "product_id": 50,
+        "name": "Колбаса варёная",
+        "price": 220,
+        "type": "500 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/boiled-sausage.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 51,
+        "name": "Колбаса копчёная",
+        "price": 350,
+        "type": "500 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/smoked-sausage.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 52,
+        "name": "Сосиски",
+        "price": 180,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/sausage.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 53,
+        "name": "Сардельки",
+        "price": 200,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/sardelki.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 54,
+        "name": "Ветчина",
+        "price": 320,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/ham.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 55,
+        "name": "Паштет печёночный",
+        "price": 140,
+        "type": "200 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pate.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 56,
+        "name": "Балык",
+        "price": 400,
+        "type": "300 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/balyk.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 57,
+        "name": "Сервелат",
+        "price": 370,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/servelat.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 58,
+        "name": "Копчёная курица",
+        "price": 250,
+        "type": "500 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/smoked-chicken.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 59,
+        "name": "Салями",
+        "price": 390,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/salami.png",
+        "category_id": 5
+    },
+    {
+        "product_id": 60,
+        "name": "Пельмени",
+        "price": 180,
+        "type": "800 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pelmeni.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 61,
+        "name": "Вареники с картошкой",
+        "price": 160,
+        "type": "800 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/vareniki-potato.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 62,
+        "name": "Вареники с творогом",
+        "price": 170,
+        "type": "800 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/vareniki-cheese.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 63,
+        "name": "Замороженная брокколи",
+        "price": 120,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/broccoli.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 64,
+        "name": "Замороженная цветная капуста",
+        "price": 115,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cauliflower.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 65,
+        "name": "Замороженные ягоды",
+        "price": 200,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/berries.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 66,
+        "name": "Замороженная рыба",
+        "price": 250,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/frozen-fish.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 67,
+        "name": "Замороженные овощи",
+        "price": 130,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/frozen-vegetables.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 68,
+        "name": "Замороженная курица",
+        "price": 220,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/frozen-chicken.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 69,
+        "name": "Мороженое",
+        "price": 80,
+        "type": "100 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/ice-cream.png",
+        "category_id": 6
+    },
+    {
+        "product_id": 70,
+        "name": "Хлеб белый",
+        "price": 35,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/white-bread.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 71,
+        "name": "Хлеб ржаной",
+        "price": 40,
+        "type": "400 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/rye-bread.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 72,
+        "name": "Батон нарезной",
+        "price": 30,
+        "type": "350 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/baton.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 73,
+        "name": "Булочка с маком",
+        "price": 25,
+        "type": "1 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/poppy-bun.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 74,
+        "name": "Круассан",
+        "price": 50,
+        "type": "1 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/croissant.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 75,
+        "name": "Пирожок с картошкой",
+        "price": 30,
+        "type": "1 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pie-potato.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 76,
+        "name": "Пирожок с мясом",
+        "price": 35,
+        "type": "1 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pie-meat.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 77,
+        "name": "Слойка с яблоком",
+        "price": 40,
+        "type": "1 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/apple-puff.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 78,
+        "name": "Багет",
+        "price": 45,
+        "type": "1 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/baguette.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 79,
+        "name": "Сухари",
+        "price": 25,
+        "type": "200 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/rusk.png",
+        "category_id": 7
+    },
+    {
+        "product_id": 80,
+        "name": "Макароны",
+        "price": 60,
+        "type": "500 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/pasta.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 81,
+        "name": "Рис",
+        "price": 70,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/rice.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 82,
+        "name": "Гречка",
+        "price": 80,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/buckwheat.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 83,
+        "name": "Пшено",
+        "price": 65,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/millet.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 84,
+        "name": "Овсяные хлопья",
+        "price": 90,
+        "type": "500 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/oatmeal.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 85,
+        "name": "Мука пшеничная",
+        "price": 55,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/flour.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 86,
+        "name": "Перловка",
+        "price": 60,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/barley.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 87,
+        "name": "Кукурузная крупа",
+        "price": 75,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/corn-grits.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 88,
+        "name": "Семолина",
+        "price": 50,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/semolina.png",
+        "category_id": 8
+    },
+    {
+        "product_id": 89,
+        "name": "Булгур",
+        "price": 85,
+        "type": "1 кг",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/bulgur.png",
+        "category_id": 8
+    },
+   
+    {
+        "product_id": 90,
+        "name": "Чай чёрный",
+        "price": 120,
+        "type": "100 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/black-tea.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 91,
+        "name": "Чай зелёный",
+        "price": 130,
+        "type": "100 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/green-tea.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 92,
+        "name": "Кофе растворимый",
+        "price": 250,
+        "type": "100 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/instant-coffee.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 93,
+        "name": "Кофе молотый",
+        "price": 300,
+        "type": "250 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/ground-coffee.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 94,
+        "name": "Какао порошок",
+        "price": 110,
+        "type": "200 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cocoa.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 95,
+        "name": "Чай травяной",
+        "price": 140,
+        "type": "100 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/herbal-tea.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 96,
+        "name": "Кофе в зернах",
+        "price": 320,
+        "type": "250 г",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/coffee-beans.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 97,
+        "name": "Чай пакетированный",
+        "price": 100,
+        "type": "25 пак.",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/tea-bags.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 98,
+        "name": "Кофе капсулы",
+        "price": 350,
+        "type": "10 шт",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/coffee-capsule.png",
+        "category_id": 9
+    },
+    {
+        "product_id": 99,
+        "name": "Какао напиток",
+        "price": 90,
+        "type": "200 мл",
+        "image": "https://raw.githubusercontent.com/tempiltin/api/main/images/cocoa-drink.png",
+        "category_id": 9
+    }
+]
